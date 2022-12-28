@@ -4,8 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Description
 
-This app/project is a gym app created in VScode with ReactJS, Javascript, CSS, and HTML.
-"FRONT-END" and "WEB" only.
+This app/project is a gym app created in VScode with ReactJS, Javascript, CSS, and HTML.\
+
+- "FRONT-END" functionalities only
+- "WEB" use only
 
 ## Available Scripts
 
