@@ -1,0 +1,81 @@
+.Testimonials {
+    display: flex;
+    gap: 1rem;
+    padding: 2rem 2rem;
+    position: none;
+
+}
+
+.left-t {
+    display: flex;
+    flex: 1 1;
+    gap: 2rem;
+    flex-direction: column;
+    text-transform: uppercase;
+    color: white;
+    margin-left: 60px;
+}
+
+.left-t > :nth-child(1) {
+    color: red;
+    font-weight: bold;
+}
+
+.left-t > :nth-child(2),
+.left-t > :nth-child(3) {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.left-t > :nth-child(4) {
+    text-transform: none;
+    text-align: justify;
+    letter-spacing: 2px;
+    line-height: 30px;
+    color: black;
+}
+
+.right-t {
+    flex: 1;
+    position: relative;
+    bottom: 390px;
+    left: 20px;
+}
+
+.right-t > img {
+    position: absolute;
+    width: 17rem;
+    height: 20rem;
+    object-fit: cover;
+    right: 8rem;
+    top: 2rem;
+}
+
+.right-t > :nth-child(1) {
+    position: absolute;
+    width: 17rem;
+    height: 20rem;
+    border: 2px solid orangered;
+    background-color: transparent;
+    right: 9rem;
+    top: 0.9rem;
+}
+
+.right-t > :nth-child(2) {
+    position: absolute;
+    width: 17rem;
+    height: 19rem;
+    top: 4rem;
+    right: 7rem;
+    background: salmon;
+}
+
+/* .arrows {
+    display: flex;
+    gap: 1rem;
+    position: relative;
+    bottom: 1rem;
+    left: 3rem;
+    margin-left: 720px;
+    top: 300px;
+} */
