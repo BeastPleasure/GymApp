@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Description
+
+This app/project is a gym app created in VScode with ReactJS, Javascript, CSS, and HTML.
+"FRONT-END" and "WEB" only.
+
 ## Available Scripts
 
 In the project directory, you can run:
